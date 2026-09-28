@@ -118,4 +118,4 @@ npm run build
 
 背景 `public/assets/workspace-bg.png` は、このアプリ用にOpenAIの画像生成機能で新規作成したオリジナル画像です。UI、キーボード、アイコン、文字はHTML/CSSと `lucide-react` で実装しており、背景画像内に操作要素はありません。
 
-設計調査の要点と参照先は [docs/research.md](docs/research.md) に記録しています。
+設計調査の要点と参照先は docs/research.md に記録しています。
